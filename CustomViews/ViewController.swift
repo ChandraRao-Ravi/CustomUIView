@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  CustomViews
 //
-//  Created by Ritesh Gupta on 17/02/18.
-//  Copyright © 2018 Ritesh Gupta. All rights reserved.
+//  Created by Chandra Rao on 17/02/18.
+//  Copyright © 2018 Chandra Rao. All rights reserved.
 //
 
 import UIKit
